@@ -1,0 +1,45 @@
+Threat Actor,Origin,Platform,Channel / Account,Confidence (ID/Activity),Source URL
+DieNet,Iraq/Iran-aligned,Telegram,@DIeNlt (primary); @dienet1 (backup); @dienet2 (backup 2),9.5/7.0,https://tgstat.com/channel/@DIeNlt
+DieNet,Iraq/Iran-aligned,Web (.onion),dienety5rfg7hasw5yfangufy5s4sspjzm77lpgqpzdz7nym5rpmu3yd.onion,9.0/6.0,https://tgstat.com/channel/@DIeNlt
+313 Team,Iraq (Shia militia),Telegram,@xX313XxTeam (primary); @x313xTeamLeak; @x313xTeamBackup,9.5/8.0,https://telemetr.io/en/channels/2250158203-xx313xxteam
+LulzSec Black,Arab-origin (multi-national),Telegram,@lulzsecblack,8.5/6.5,https://telemetr.io/en/channels/2727439812-lulzsecblack
+Handala / Handala Hack,Iran/Palestine-linked,Telegram,@handala_hack26 (latest); @handala_hack2; @handala_channel (prior),9.0/7.0,https://tgstat.com/channel/@handala_hack26
+Handala / Handala Hack,Iran/Palestine-linked,Web,handala-hack.to; .onion: vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion,9.0/7.5,https://socradar.io/blog/dark-web-profile-handala-hack/
+Handala / Handala Hack,Iran/Palestine-linked,X (Twitter),@Handala_Hack,8.0/5.0,https://en.wikipedia.org/wiki/Handala_Hack_Team
+Handala / Handala Hack,Iran/Palestine-linked,BreachForums,breachforums.cx/User/Handala,8.5/5.0,https://cyberint.com/blog/threat-intelligence/handala-hack-what-we-know-about-the-rising-threat-actor/
+Russian Legion,Russia,Telegram,Search Russian Legion — no confirmed stable handle; frequently recreated,5.0/4.0,https://www.rapid7.com/blog/post/tr-iran-cyber-playbook-escalating-regional-conflict/
+L4663R666H05T,Indonesia,Telegram,No confirmed handle found in open sources,3.0/3.0,https://falconfeeds.io/blogs/mapping-the-cyber-battlefield-middle-east-threat-actor-activity/
+Cyb3r Drag0nz,Unknown (pro-Iran),Telegram,No confirmed handle found in open sources,3.0/3.0,https://falconfeeds.io/blogs/mapping-the-cyber-battlefield-middle-east-threat-actor-activity/
+INDOHAXSEC,Indonesia,Telegram,@INDOHAXSEC,9.5/8.0,https://tgstat.com/channel/@INDOHAXSEC
+INDOHAXSEC,Indonesia,GitHub,github.com/INDOHAXSEC,9.0/7.0,https://arcticwolf.com/resources/blog-uk/indohaxsec-indonesian-hacking-collective/
+chinafans,China/Unknown,Telegram,No confirmed handle found in open sources,3.0/3.0,https://falconfeeds.io/blogs/mapping-the-cyber-battlefield-middle-east-threat-actor-activity/
+Jax7,Unknown,BreachForums,Primarily operates via BreachForums — no confirmed stable Telegram handle,4.0/4.0,https://falconfeeds.io/blogs/mapping-the-cyber-battlefield-middle-east-threat-actor-activity/
+RipperSec,Malaysia/SE Asia,Telegram,@TheRipperSec (main); @RipperSec (news); @RipperSecGroup (community),9.5/7.5,https://tgstat.com/channel/@TheRipperSec
+Desinformador ruso / Z-Alliance,Russia,Telegram,Search Z-Alliance or Z-Pentest Alliance — recreated after takedowns,6.0/5.0,https://socradar.io/blog/the-top-10-dark-web-telegram-chat-groups-and-channels/
+APT IRAN,Iran (state-aligned),Telegram,Search APT IRAN — active presence confirmed; no stable handle,6.0/5.5,https://cyberwarrior76.substack.com/p/cyber-threat-intelligence-briefing-7ed
+Cyber Avengers (CyberAv3ngers),Iran (IRGC-linked),Telegram,No confirmed public channel — covert actor,3.0/3.0,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-055a
+OPISrael Team,Global (multi-national),Telegram,Search OPISrael — no single confirmed handle,4.0/4.0,https://falconfeeds.io/blogs/mapping-the-cyber-battlefield-middle-east-threat-actor-activity/
+FA Team,Iraq,Telegram,Search FA Team Iraq — no confirmed stable handle,4.0/4.0,https://www.rapid7.com/blog/post/tr-iran-cyber-playbook-escalating-regional-conflict/
+Fatimion Cyber Team,Iraq,Telegram,@hak993 (primary confirmed),9.0/8.0,https://telemetr.io/en/channels/1970086460-hak993
+Fatimion Cyber Team,Iraq,X (Twitter),@FatimionCyber,8.0/6.0,https://cyberwarzone.com/2026/03/06/fatimion-cyber-team-inside-the-iran-linked-hacking-group-waging-cyber-war-across-the-middle-east/
+ALTOUFAN TEAM,Iraq/Iran-linked,Telegram,Search Altoufan — no confirmed stable public handle,5.0/4.0,https://www.safebreach.com/blog/an-update-on-the-heightened-threat-of-iranian-cyber-attacks/
+Keymous Plus,Bangladesh/South Asia,Telegram,@keymous (primary); @KeymousTeam (backup); @Keymous_V2 (backup 2),9.5/8.5,https://telemetr.io/en/channels/2602447593-keymous
+Keymous Plus,Bangladesh/South Asia,X (Twitter),@KeymousTeam,9.0/7.5,https://telemetr.io/en/channels/2602447593-keymous
+NoName057(16),Russia,Telegram,@noname05716 (RU); @noname05716eng (EN); @noname05716engver (EN backup),9.5/8.0,https://tgstat.com/channel/@noname05716
+NoName057(16),Russia,X (Twitter),@Noname05716,9.0/7.0,https://x.com/noname05716
+SYLHET GANG-SG,Bangladesh,Telegram,@SylhetGangSG1 (primary); @SGofficial2 (backup),9.0/7.5,https://tgstat.com/channel/@SylhetGangSG1
+SYLHET GANG-SG,Bangladesh,X (Twitter),@Sylhetgang01,8.5/7.0,https://tgstat.com/channel/@SylhetGangSG1
+BD Anonymous,Bangladesh,Telegram,No stable confirmed handle — search BD Anonymous,5.0/4.5,https://socradar.io/iran-israel-cyber-conflict-dashboard/
+THE GHOSTS IN THE MACHINE,Unknown (pro-Iran),Telegram,No confirmed handle found in open sources,3.0/3.0,https://falconfeeds.io/blogs/mapping-the-cyber-battlefield-middle-east-threat-actor-activity/
+A K U L A v 2.2,Unknown,Telegram,No confirmed handle found in open sources,3.0/3.0,https://falconfeeds.io/blogs/mapping-the-cyber-battlefield-middle-east-threat-actor-activity/
+Qilin Ransomware,Criminal (RaaS),Dark Web,No public Telegram — monitor via BreachForums and dark web leak site,4.0/4.0,https://falconfeeds.io/blogs/mapping-the-cyber-battlefield-middle-east-threat-actor-activity/
+DragonTeamRaaS,Criminal (RaaS),BreachForums,Operates via BreachForums — no confirmed stable Telegram handle,4.0/3.5,https://falconfeeds.io/blogs/mapping-the-cyber-battlefield-middle-east-threat-actor-activity/
+THE GARUDA EYE,Indonesia,Telegram,Search Garuda Eye — no confirmed handle found,4.0/4.0,https://falconfeeds.io/blogs/mapping-the-cyber-battlefield-middle-east-threat-actor-activity/
+Archxzen,Unknown,Telegram,No confirmed handle found in open sources,3.0/3.0,https://falconfeeds.io/blogs/mapping-the-cyber-battlefield-middle-east-threat-actor-activity/
+Nation of Saviors,Unknown (pro-Iran),Telegram,No confirmed handle found in open sources,3.0/3.0,https://falconfeeds.io/blogs/mapping-the-cyber-battlefield-middle-east-threat-actor-activity/
+Evil Markhors,Pakistan (pro-Iran),Telegram,Search Evil Markhors — no confirmed stable handle,4.5/4.0,https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/
+rythem,Unknown,Dark Web (Exploit forum),Operates via Exploit forum — no Telegram confirmed,3.0/3.0,https://falconfeeds.io/blogs/mapping-the-cyber-battlefield-middle-east-threat-actor-activity/
+MuddyWater,Iran (state-sponsored),N/A,No self-disclosure. Attributed by CISA AA22-055A / FBI / NSA / NCSC-UK. Monitor via ThreatStream/MITRE G0069,10.0/N/A,https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-055a
+APT34 / OilRig,Iran (state-sponsored),N/A,No self-disclosure. Attributed by Mandiant / CrowdStrike / MITRE G0049,10.0/N/A,https://attack.mitre.org/groups/G0049/
+APT33,Iran (state-sponsored),N/A,No self-disclosure. Attributed by Mandiant / Microsoft / MITRE G0064,10.0/N/A,https://attack.mitre.org/groups/G0064/
+APT39 / Chafer,Iran (state-sponsored),N/A,No self-disclosure. Attributed by Mandiant / MITRE G0087 / US Treasury,10.0/N/A,https://attack.mitre.org/groups/G0087/
